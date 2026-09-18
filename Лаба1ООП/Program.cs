@@ -21,7 +21,7 @@ class Program
         Console.Write("Введите m: ");
         int m = Convert.ToInt32(Console.ReadLine());
 
-        // 1) n++ * m
+
         int n1 = n;
         int m1 = m;
         int result1 = n1++ * m1;
@@ -30,7 +30,7 @@ class Program
         Console.WriteLine($"Результат: {result1}");
         Console.WriteLine($"После вычисления n = {n1}");
 
-        // 2) n++ < m
+
         int n2 = n;
         int m2 = m;
         bool result2 = n2++ < m2;
@@ -39,7 +39,7 @@ class Program
         Console.WriteLine($"Результат: {result2}");
         Console.WriteLine($"После вычисления n = {n2}");
 
-        // 3) --m > n
+
         int n3 = n;
         int m3 = m;
         bool result3 = --m3 > n3;
@@ -48,7 +48,7 @@ class Program
         Console.WriteLine($"Результат: {result3}");
         Console.WriteLine($"После вычисления m = {m3}");
 
-        // 4) кубический корень
+
         Console.Write("\nВведите x: ");
         double x = Convert.ToDouble(Console.ReadLine());
 
@@ -62,7 +62,7 @@ class Program
 
 
         Console.WriteLine("\n\nЗАДАЧА 2");
-        Console.WriteLine("Область — круг радиуса 1 с центром в начале координат.");
+        Console.WriteLine("Область — круг радиуса 1 с центром в начале координат");
 
         Console.Write("Введите X1: ");
         double x1 = Convert.ToDouble(Console.ReadLine());
