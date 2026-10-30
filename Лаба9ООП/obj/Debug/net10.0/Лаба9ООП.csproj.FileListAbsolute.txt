@@ -1,0 +1,14 @@
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.AssemblyInfoInputs.cache
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.AssemblyInfo.cs
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.csproj.CoreCompileInputs.cache
+/Users/pavel/Desktop/Лаба9ООП/bin/Debug/net10.0/Лаба9ООП
+/Users/pavel/Desktop/Лаба9ООП/bin/Debug/net10.0/Лаба9ООП.deps.json
+/Users/pavel/Desktop/Лаба9ООП/bin/Debug/net10.0/Лаба9ООП.runtimeconfig.json
+/Users/pavel/Desktop/Лаба9ООП/bin/Debug/net10.0/Лаба9ООП.dll
+/Users/pavel/Desktop/Лаба9ООП/bin/Debug/net10.0/Лаба9ООП.pdb
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.dll
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/refint/Лаба9ООП.dll
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.pdb
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/Лаба9ООП.genruntimeconfig.cache
+/Users/pavel/Desktop/Лаба9ООП/obj/Debug/net10.0/ref/Лаба9ООП.dll
