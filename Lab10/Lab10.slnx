@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab10Console/Lab10Console.csproj" />
+  <Project Path="OrganizationLibrary.Tests/OrganizationLibrary.Tests.csproj" />
+  <Project Path="OrganizationLibrary/OrganizationLibrary.csproj" />
+</Solution>
